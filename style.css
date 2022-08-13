@@ -1,0 +1,28 @@
+ td{
+   border-radius: 2px;
+  
+}
+h1{
+    background-color: aqua;
+    color: navy;
+}
+body{
+ background: lightblue;
+font-size: 25px;
+}
+td:hover{
+    background-color: cyan;
+    color: blue;
+    font-size: x-large;
+}
+
+
+#search2{
+    width: 350px;
+    height: 40px;
+    margin: 10px auto;
+}
+  
+td{
+    padding-left: 10px;
+}
